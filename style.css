@@ -1,0 +1,21 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+p {
+	font-family: Arial;
+}
+.yellow{
+	color: yellow;
+}
+h1{
+	color: lightblue;
+}
+h2{
+	color: lightblue;
+}
+img{
+	width: 200;
+	height: 200;
+}
